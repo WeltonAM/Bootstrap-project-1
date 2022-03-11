@@ -1,0 +1,24 @@
+#home {
+    background: #ffc107;
+    color: #fff;
+}
+
+.caixa {
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+#by a {
+    text-decoration: none;
+}
+
+#by {
+    border-top: 1px solid #039fce52;
+}
+
+@media (max-width: 401px) {
+    #home h1 {
+        font-size: 2rem;
+    }
+
+}
