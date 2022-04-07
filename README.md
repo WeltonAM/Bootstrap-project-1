@@ -2,4 +2,4 @@
  
  Web dev course (Udemy)
  
- https://weltonam.github.io/Project8_Finans/
+https://weltonam.github.io/Bootstrap-project-1/
